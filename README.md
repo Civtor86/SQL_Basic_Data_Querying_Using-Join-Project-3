@@ -1,4 +1,4 @@
-# SQL_Data_Querying_Using-Join-Project-3
+# SQL_Data_Querying_Using_Join_Project-3
 SQL_Data_Querying_Using Joins Function on PostGreSQL Project 3
 
 SQL_Basic_Data_Querying Using Joins Function on PostGreSQL
