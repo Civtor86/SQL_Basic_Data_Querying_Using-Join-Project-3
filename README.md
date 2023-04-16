@@ -1,8 +1,6 @@
 # SQL_Data_Querying_Using_Join_Project-3
 SQL_Data_Querying_Using Joins Function on PostGreSQL Project 3
 
-SQL_Basic_Data_Querying Using Joins Function on PostGreSQL
-
 This is my Third SQL project  where I explore the use of Join Function of SQL by creating and manipulating custom tables using PostGreSQL.
 The DVD Rental Dataset is taken from the following website: https://downloads.mysql.com/docs/sakila-db.zip.
 
