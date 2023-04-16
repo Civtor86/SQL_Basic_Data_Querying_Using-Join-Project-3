@@ -4,9 +4,6 @@ SQL_Data_Querying_Using Joins Function on PostGreSQL Project 3
 This is my Third SQL project  where I explore the use of Join Function of SQL by creating and manipulating custom tables using PostGreSQL.
 The DVD Rental Dataset is taken from the following website: https://downloads.mysql.com/docs/sakila-db.zip.
 
-
-Introduction: As the General manager for the Sydney area at Airbnb, you want to know more about the different listings of houses your team has onboarded. You have access to information regarding the listings, neighbourhoods, reviews, and calendar. Each of these have their own separate table.
-
 The task I need to accomplish on the said dataset are the following: 
 
 1.	Using the DVD rental dataset, provide the SQL code and the output for this query criterion
